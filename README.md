@@ -1,33 +1,26 @@
-# Sudharsan Portfolio
+# Melody Mwayitsi — Portfolio
 
-Simple webpage crafted using pure HTML and CSS. A minimalistic showcase of structure and design.
+Welcome to my personal portfolio! I'm a Computer Science student interested in building digital solutions, exploring systems, and solving real-world problems through technology.
 
-### Live Link: https://danielace1.github.io/Portfolio/
+## About Me
 
-## Features
+I'm currently pursuing a Bachelor of Science in Computer Science at Mount Kenya University. I'm developing my technical skills through coursework, personal projects, and continuous learning.
 
-🎨 **Three Themes**: This project includes three distinct color themes, each with its own CSS file:
+## Skills
 
-1. **Blue Theme**
-2. **Red Theme**
-3. **Violet Theme**
+- HTML and CSS
+- JavaScript
+- Python fundamentals
+- PostgreSQL and SQL
+- Git and GitHub
+- Responsive web development
 
-**_How to Switch Themes_** :
+## Portfolio
 
-To switch between these themes, link the desired theme's CSS file in your HTML. For example, to use the Red Theme:
+Explore my projects and learn more about my technical journey through my [portfolio website](https://Melody-boop.github.io/melodydigitalspace/).
 
-```html
-<link rel="stylesheet" href="path/to/style-two.css" />
-```
+## Connect With Me
 
-#### Authors:
-
-- Special thanks to [Mr. Anbuselvan
-  Rocky](https://github.com/anburocky3) for his valuable mentorship.
-
-##### Connect with me on:
-
-- [Linked-in](https://www.linkedin.com/in/sudharsan-a-b40506290/)
-- [Instagram](https://instagram.com/sudharsan_daniel)
-- [Facebook](https"//https://www.facebook.com/sudharsandaniel.sudharsandaniel)
-- [Github](https://github.com/danielace1)
+- **GitHub:** https://github.com/Melody-boop
+- **LinkedIn:** https://linkedin.com/in/melody-mwayitsi-901100317
+- **Email:** mwayitsimelody@gmail.com
