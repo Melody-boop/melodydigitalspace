@@ -123,7 +123,11 @@ ul.social-icons {
   font-size: 18px;
   transition: all 0.3s ease 0s;
 }
-
+.hero-buttons {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
 .hero-buttons button {
   margin-right: 10px;
 }
